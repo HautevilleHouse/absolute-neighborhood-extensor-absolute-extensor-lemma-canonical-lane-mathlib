@@ -1,0 +1,9 @@
+import absolute_neighborhood_extensor_absolute_extensor_lemma_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace absolute_neighborhood_extensor_absolute_extensor_lemma_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end absolute_neighborhood_extensor_absolute_extensor_lemma_canonical_lane_mathlib
+end HautevilleHouse
